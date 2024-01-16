@@ -1,0 +1,255 @@
+[
+    {
+      "model": "Honda City",
+      "year": 2015,
+      "listPrice": 20000,
+      "colors": "Red",
+      "mileage": 18.5,
+      "powerBHP": 120,
+      "maxSpeed": 180
+    },
+    {
+      "model": "Toyota Camry",
+      "year": 2020,
+      "listPrice": 35000,
+      "colors": "Black",
+      "mileage": 22.0,
+      "powerBHP": 200,
+      "maxSpeed": 200
+    },
+    {
+      "model": "BMW X5",
+      "year": 2018,
+      "listPrice": 60000,
+      "colors": "Silver",
+      "mileage": 16.5,
+      "powerBHP": 300,
+      "maxSpeed": 250
+    },
+    {
+      "model": "Ford Mustang",
+      "year": 2017,
+      "listPrice": 45000,
+      "colors": "Blue",
+      "mileage": 15.0,
+      "powerBHP": 350,
+      "maxSpeed": 220
+    },
+    {
+      "model": "Chevrolet Cruze",
+      "year": 2019,
+      "listPrice": 28000,
+      "colors": "White",
+      "mileage": 20.5,
+      "powerBHP": 180,
+      "maxSpeed": 200
+    },
+    {
+      "model": "Nissan Altima",
+      "year": 2016,
+      "listPrice": 22000,
+      "colors": "Gray",
+      "mileage": 21.0,
+      "powerBHP": 150,
+      "maxSpeed": 190
+    },
+    {
+      "model": "Audi A4",
+      "year": 2021,
+      "listPrice": 50000,
+      "colors": "Black",
+      "mileage": 25.0,
+      "powerBHP": 220,
+      "maxSpeed": 240
+    },
+    {
+      "model": "Mercedes-Benz C-Class",
+      "year": 2019,
+      "listPrice": 55000,
+      "colors": "Silver",
+      "mileage": 18.0,
+      "powerBHP": 280,
+      "maxSpeed": 230
+    },
+    {
+      "model": "Hyundai Sonata",
+      "year": 2018,
+      "listPrice": 30000,
+      "colors": "Blue",
+      "mileage": 19.5,
+      "powerBHP": 170,
+      "maxSpeed": 210
+    },
+    {
+      "model": "Volkswagen Passat",
+      "year": 2017,
+      "listPrice": 32000,
+      "colors": "Red",
+      "mileage": 17.5,
+      "powerBHP": 160,
+      "maxSpeed": 200
+    },
+    {
+        "model": "Ford Fusion",
+        "year": 2016,
+        "listPrice": 25000,
+        "colors": "Silver",
+        "mileage": 20.0,
+        "powerBHP": 180,
+        "maxSpeed": 200
+    },
+    {
+        "model": "Toyota Corolla",
+        "year": 2019,
+        "listPrice": 28000,
+        "colors": "White",
+        "mileage": 22.5,
+        "powerBHP": 150,
+        "maxSpeed": 190
+    },
+    {
+        "model": "Chevrolet Malibu",
+        "year": 2018,
+        "listPrice": 27000,
+        "colors": "Blue",
+        "mileage": 21.0,
+        "powerBHP": 160,
+        "maxSpeed": 200
+    },
+    {
+        "model": "Honda Accord",
+        "year": 2020,
+        "listPrice": 32000,
+        "colors": "Black",
+        "mileage": 23.5,
+        "powerBHP": 200,
+        "maxSpeed": 210
+    },
+    {
+        "model": "Volkswagen Jetta",
+        "year": 2016,
+        "listPrice": 24000,
+        "colors": "Black",
+        "mileage": 18.5,
+        "powerBHP": 150,
+        "maxSpeed": 195
+    },
+    {
+        "model": "Mazda 6",
+        "year": 2018,
+        "listPrice": 26000,
+        "colors": "Silver",
+        "mileage": 19.0,
+        "powerBHP": 160,
+        "maxSpeed": 200
+    },
+    {
+        "model": "Kia Optima",
+        "year": 2019,
+        "listPrice": 30000,
+        "colors": "Blue",
+        "mileage": 22.0,
+        "powerBHP": 180,
+        "maxSpeed": 210
+    },
+    {
+        "model": "Subaru Legacy",
+        "year": 2017,
+        "listPrice": 27000,
+        "colors": "White",
+        "mileage": 20.5,
+        "powerBHP": 170,
+        "maxSpeed": 205
+    },
+    {
+        "model": "Chrysler 300",
+        "year": 2020,
+        "listPrice": 35000,
+        "colors": "Red",
+        "mileage": 25.5,
+        "powerBHP": 220,
+        "maxSpeed": 220
+    },
+    {
+        "model": "Buick Regal",
+        "year": 2018,
+        "listPrice": 31000,
+        "colors": "Black",
+        "mileage": 23.0,
+        "powerBHP": 200,
+        "maxSpeed": 215
+    },
+    {
+        "model": "Acura TLX",
+        "year": 2016,
+        "listPrice": 26000,
+        "colors": "Gray",
+        "mileage": 21.5,
+        "powerBHP": 190,
+        "maxSpeed": 205
+    },
+    {
+        "model": "Lexus ES",
+        "year": 2019,
+        "listPrice": 38000,
+        "colors": "Silver",
+        "mileage": 24.5,
+        "powerBHP": 250,
+        "maxSpeed": 230
+    },
+    {
+        "model": "Infiniti Q50",
+        "year": 2017,
+        "listPrice": 33000,
+        "colors": "Blue",
+        "mileage": 22.0,
+        "powerBHP": 220,
+        "maxSpeed": 220
+    },
+    {
+        "model": "Genesis G80",
+        "year": 2021,
+        "listPrice": 42000,
+        "colors": "Black",
+        "mileage": 26.0,
+        "powerBHP": 270,
+        "maxSpeed": 240
+    },
+    {
+        "model": "Jaguar XF",
+        "year": 2018,
+        "listPrice": 45000,
+        "colors": "Red",
+        "mileage": 25.0,
+        "powerBHP": 280,
+        "maxSpeed": 245
+    },
+    {
+        "model": "Tesla Model 3",
+        "year": 2020,
+        "listPrice": 50000,
+        "colors": "White",
+        "mileage": 30.0,
+        "powerBHP": 350,
+        "maxSpeed": 250
+    },
+    {
+        "model": "Porsche Panamera",
+        "year": 2019,
+        "listPrice": 80000,
+        "colors": "Silver",
+        "mileage": 28.5,
+        "powerBHP": 400,
+        "maxSpeed": 270
+    },
+    {
+        "model": "Ferrari 488 GTB",
+        "year": 2017,
+        "listPrice": 300000,
+        "colors": "Yellow",
+        "mileage": 15.0,
+        "powerBHP": 660,
+        "maxSpeed": 330
+    }
+]
+  
