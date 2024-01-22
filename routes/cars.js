@@ -1,10 +1,17 @@
 const express=require("express");
 const router = express.Router();
 
-const {getAllCars,getAllCarsTesting,getUniqueModelsCount}=require("../controllers/cars");
+const {getUniqueModelsCount}=require("../controllers/count_car");
+const {getSimilarCarsCallback}=require("../controllers/search_cars");
+const {getAllCars}=require("../controllers/all_cars");
+const {filterCars}=require("../controllers/filter_by_car");
 
-router.route("/").get(getAllCars);
-router.route("/testing").get(getAllCarsTesting);
-router.route("/models/count").get(getUniqueModelsCount);
+
+
+router.route("/all").get(getAllCars);
+router.route("/filter").get(filterCars);
+router.route("/count").get(getUniqueModelsCount);
+router.route("/search").get(getSimilarCarsCallback);
+
 
 module.exports = router;
