@@ -46,7 +46,7 @@ const filterCars = async (req, res) => {
 
     // Check if mileageFilter is a valid number
     if (!isNaN(mileageFilter) && mileageFilter !== 'All') {
-      additionalFilters.mileage = { $gte: parseFloat(mileageFilter) };
+      additionalFilters.mileage = { $lte: parseFloat(mileageFilter) };
     }
 
     let query;
