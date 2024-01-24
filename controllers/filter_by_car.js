@@ -19,14 +19,15 @@ function customSimilarity(query, field) {
 }
 
 const filterCars = async (req, res) => {
-  // console.log(req.query);
   const filter_cars = req.query;
 
   try {
     const searchQuery = filter_cars.model;
     const colorFilter = filter_cars.colors;
-    const mileageFilter = filter_cars.mileage;
-    const priceFilter = filter_cars.price;
+    const mileageMin = filter_cars.mileageMin;
+    const mileageMax = filter_cars.mileageMax;
+    const priceMin = filter_cars.priceMin;
+    const priceMax = filter_cars.priceMax;
 
     const textSearchQuery = {
       model: { $regex: new RegExp(searchQuery, 'i') }
@@ -39,14 +40,14 @@ const filterCars = async (req, res) => {
       additionalFilters.colors = { $eq: colorFilter };
     }
 
-    // Check if priceFilter is a valid number
-    if (!isNaN(priceFilter) && priceFilter !== 'All') {
-      additionalFilters.listPrice = { $lte: parseFloat(priceFilter) };
+    // Check if priceMin and priceMax are valid numbers
+    if (!isNaN(priceMin) && !isNaN(priceMax) && priceMin !== 0 && priceMax !== 300000) {
+      additionalFilters.listPrice = { $gte: parseFloat(priceMin), $lte: parseFloat(priceMax) };
     }
 
-    // Check if mileageFilter is a valid number
-    if (!isNaN(mileageFilter) && mileageFilter !== 'All') {
-      additionalFilters.mileage = { $lte: parseFloat(mileageFilter) };
+    // Check if mileageMin and mileageMax are valid numbers
+    if (!isNaN(mileageMin) && !isNaN(mileageMax) && mileageMin !== 'All' && mileageMax !== 'All') {
+      additionalFilters.mileage = { $gte: parseFloat(mileageMin), $lte: parseFloat(mileageMax) };
     }
 
     let query;
@@ -61,8 +62,6 @@ const filterCars = async (req, res) => {
         $and: [textSearchQuery, additionalFilters]
       };
     }
-
-    // console.log(query);
 
     const allCars = await oem.find(query);
 

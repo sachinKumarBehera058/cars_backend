@@ -10,7 +10,7 @@ const productSchema = new mongoose.Schema({
     required: true,
   },
   listPrice: {
-    type: Number,  // Assuming this is the price field
+    type: Number,
     required: true,
   },
   colors: {
@@ -18,13 +18,16 @@ const productSchema = new mongoose.Schema({
     required: true,
   },
   mileage: {
-    type: Number,  // Assuming this is the mileage field
+    type: Number,
   },
   powerBHP: {
     type: Number,
   },
   maxSpeed: {
     type: Number,
+  },
+  image: {
+    type: String, 
   },
 });
 

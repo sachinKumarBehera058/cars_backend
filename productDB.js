@@ -6,7 +6,8 @@ const ProductJson =require("./products.json");
 
 const start=async()=>{
     try {
-        await connectDB(process.env.MONGODB_URL);
+        console.log("ProductJson:", ProductJson);
+        await connectDB(process.env.MONGODB.URL);
         await Product.deleteMany();
         await Product.create(ProductJson);
         console.log("success");

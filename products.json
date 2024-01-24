@@ -6,7 +6,8 @@
       "colors": "Red",
       "mileage": 18.5,
       "powerBHP": 120,
-      "maxSpeed": 180
+      "maxSpeed": 180,
+      "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
       "model": "Toyota Camry",
@@ -15,7 +16,8 @@
       "colors": "Black",
       "mileage": 22.0,
       "powerBHP": 200,
-      "maxSpeed": 200
+      "maxSpeed": 200,
+      "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
       "model": "BMW X5",
@@ -24,7 +26,8 @@
       "colors": "Silver",
       "mileage": 16.5,
       "powerBHP": 300,
-      "maxSpeed": 250
+      "maxSpeed": 250,
+      "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
       "model": "Ford Mustang",
@@ -33,7 +36,8 @@
       "colors": "Blue",
       "mileage": 15.0,
       "powerBHP": 350,
-      "maxSpeed": 220
+      "maxSpeed": 220,
+      "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
       "model": "Chevrolet Cruze",
@@ -42,7 +46,8 @@
       "colors": "White",
       "mileage": 20.5,
       "powerBHP": 180,
-      "maxSpeed": 200
+      "maxSpeed": 200,
+      "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
       "model": "Nissan Altima",
@@ -51,7 +56,8 @@
       "colors": "Gray",
       "mileage": 21.0,
       "powerBHP": 150,
-      "maxSpeed": 190
+      "maxSpeed": 190,
+      "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
       "model": "Audi A4",
@@ -60,7 +66,8 @@
       "colors": "Black",
       "mileage": 25.0,
       "powerBHP": 220,
-      "maxSpeed": 240
+      "maxSpeed": 240,
+      "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
       "model": "Mercedes-Benz C-Class",
@@ -69,7 +76,8 @@
       "colors": "Silver",
       "mileage": 18.0,
       "powerBHP": 280,
-      "maxSpeed": 230
+      "maxSpeed": 230,
+      "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
       "model": "Hyundai Sonata",
@@ -78,7 +86,8 @@
       "colors": "Blue",
       "mileage": 19.5,
       "powerBHP": 170,
-      "maxSpeed": 210
+      "maxSpeed": 210,
+      "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
       "model": "Volkswagen Passat",
@@ -87,7 +96,8 @@
       "colors": "Red",
       "mileage": 17.5,
       "powerBHP": 160,
-      "maxSpeed": 200
+      "maxSpeed": 200,
+      "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Ford Fusion",
@@ -96,7 +106,8 @@
         "colors": "Silver",
         "mileage": 20.0,
         "powerBHP": 180,
-        "maxSpeed": 200
+        "maxSpeed": 200,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Toyota Corolla",
@@ -105,7 +116,8 @@
         "colors": "White",
         "mileage": 22.5,
         "powerBHP": 150,
-        "maxSpeed": 190
+        "maxSpeed": 190,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Chevrolet Malibu",
@@ -114,7 +126,8 @@
         "colors": "Blue",
         "mileage": 21.0,
         "powerBHP": 160,
-        "maxSpeed": 200
+        "maxSpeed": 200,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Honda Accord",
@@ -123,7 +136,8 @@
         "colors": "Black",
         "mileage": 23.5,
         "powerBHP": 200,
-        "maxSpeed": 210
+        "maxSpeed": 210,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Volkswagen Jetta",
@@ -132,7 +146,8 @@
         "colors": "Black",
         "mileage": 18.5,
         "powerBHP": 150,
-        "maxSpeed": 195
+        "maxSpeed": 195,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Mazda 6",
@@ -141,7 +156,8 @@
         "colors": "Silver",
         "mileage": 19.0,
         "powerBHP": 160,
-        "maxSpeed": 200
+        "maxSpeed": 200,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Kia Optima",
@@ -150,7 +166,8 @@
         "colors": "Blue",
         "mileage": 22.0,
         "powerBHP": 180,
-        "maxSpeed": 210
+        "maxSpeed": 210,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Subaru Legacy",
@@ -159,7 +176,8 @@
         "colors": "White",
         "mileage": 20.5,
         "powerBHP": 170,
-        "maxSpeed": 205
+        "maxSpeed": 205,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Chrysler 300",
@@ -168,7 +186,8 @@
         "colors": "Red",
         "mileage": 25.5,
         "powerBHP": 220,
-        "maxSpeed": 220
+        "maxSpeed": 220,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Buick Regal",
@@ -177,7 +196,8 @@
         "colors": "Black",
         "mileage": 23.0,
         "powerBHP": 200,
-        "maxSpeed": 215
+        "maxSpeed": 215,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Acura TLX",
@@ -186,7 +206,8 @@
         "colors": "Gray",
         "mileage": 21.5,
         "powerBHP": 190,
-        "maxSpeed": 205
+        "maxSpeed": 205,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Lexus ES",
@@ -195,7 +216,8 @@
         "colors": "Silver",
         "mileage": 24.5,
         "powerBHP": 250,
-        "maxSpeed": 230
+        "maxSpeed": 230,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Infiniti Q50",
@@ -204,7 +226,8 @@
         "colors": "Blue",
         "mileage": 22.0,
         "powerBHP": 220,
-        "maxSpeed": 220
+        "maxSpeed": 220,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Genesis G80",
@@ -213,7 +236,8 @@
         "colors": "Black",
         "mileage": 26.0,
         "powerBHP": 270,
-        "maxSpeed": 240
+        "maxSpeed": 240,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Jaguar XF",
@@ -222,7 +246,8 @@
         "colors": "Red",
         "mileage": 25.0,
         "powerBHP": 280,
-        "maxSpeed": 245
+        "maxSpeed": 245,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Tesla Model 3",
@@ -231,7 +256,8 @@
         "colors": "White",
         "mileage": 30.0,
         "powerBHP": 350,
-        "maxSpeed": 250
+        "maxSpeed": 250,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Porsche Panamera",
@@ -240,7 +266,8 @@
         "colors": "Silver",
         "mileage": 28.5,
         "powerBHP": 400,
-        "maxSpeed": 270
+        "maxSpeed": 270,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     },
     {
         "model": "Ferrari 488 GTB",
@@ -249,7 +276,8 @@
         "colors": "Yellow",
         "mileage": 15.0,
         "powerBHP": 660,
-        "maxSpeed": 330
+        "maxSpeed": 330,
+        "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-left-front-three-quarter.jpeg?isig=0&q=80/300x200?text"
     }
 ]
   
