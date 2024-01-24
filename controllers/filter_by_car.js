@@ -32,14 +32,15 @@ const filterCars = async (req, res) => {
     const textSearchQuery = {
       model: { $regex: new RegExp(searchQuery, 'i') }
     };
-
+   
+    const colorFilters = colorFilter && colorFilter !== 'All' ? { $in: colorFilter.split(',') } : null;
     const additionalFilters = {};
 
     // Check if colorFilter is provided
-    if (colorFilter && colorFilter !== 'All') {
-      additionalFilters.colors = { $eq: colorFilter };
+    if (colorFilters) {
+      additionalFilters.colors = colorFilters;
     }
-
+    
     // Check if priceMin and priceMax are valid numbers
     if (!isNaN(priceMin) && !isNaN(priceMax) && priceMin !== 0 && priceMax !== 300000) {
       additionalFilters.listPrice = { $gte: parseFloat(priceMin), $lte: parseFloat(priceMax) };
