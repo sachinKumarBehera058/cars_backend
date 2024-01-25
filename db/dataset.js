@@ -232,7 +232,7 @@ const sampleData =[
             "mileage": 24.5,
             "powerBHP": 250,
             "maxSpeed": 230,
-            "image": "https://www.pngfind.com/pngs/m/339-3397506_cc-2019lec160001-01-1280-0085-2017-lexus-es.png"
+            "image": "https://dealer-content.s3.amazonaws.com/images/models/lexus/2021/es-350/silver-lining-metallic.png"
         },
         {
             "model": "Infiniti Q50",
