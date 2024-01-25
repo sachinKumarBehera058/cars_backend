@@ -17,7 +17,7 @@ const sampleData =[
         {
             "model": "Honda City",
             "year": 2017,
-            "listPrice": 20000,
+            "listPrice": 25000,
             "colors": "Blue",
             "mileage": 21.5,
             "powerBHP": 120,
