@@ -299,6 +299,7 @@ const sampleData =[
 
 async function insertSampleData() {
     try {
+        await OEM_Specs.deleteMany();
         await OEM_Specs.insertMany(sampleData);
         console.log('OEM data inserted successfully!');
     } catch (error) {
